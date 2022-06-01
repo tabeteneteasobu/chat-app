@@ -137,20 +137,20 @@
   display: flex;
 }
 
-.input-form {
+.form-input {
   background-color: white;
   width: 100%;
   display: flex;
 }
 
-.message-form {
+.form-message {
   border: none;
   height: 50px;
   width: 100%;
   padding-left: 10px;
 }
 
-.send {
+.form-submit {
   font-size: 16px;
   color: white;
   border: none;

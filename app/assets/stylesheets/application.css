@@ -80,7 +80,7 @@
   justify-content: space-between;
 }
 
-..header-title {
+.header-title {
   color: #333;
   font-size: 24px;
   margin-top: 36px;
@@ -172,4 +172,8 @@
 
 .hidden {
   display: none;
+}
+
+.field_with_errors {
+  display: contents;
 }
